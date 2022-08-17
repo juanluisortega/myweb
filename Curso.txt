@@ -1,2 +1,6 @@
 git init
 git status
+git add curso.txt
+git commit -m "primer commit"
+git rm archivo.txt --> borrar archivo
+git restore --staged archivo.txt
