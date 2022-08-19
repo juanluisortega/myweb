@@ -14,3 +14,4 @@ git log --oneline
 git branch --> da las ramas
 git checkout -b ramab --> crea rama
 git checkout master --> cambiar a rama master
+git merge ramab --> sube los cambios de la ramab a master
