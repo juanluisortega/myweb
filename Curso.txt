@@ -19,3 +19,5 @@ git merge ramab --> sube los cambios de la ramab a master
 Crear un repositorio en github
 
 git remote add origin https://github.com/juanluisortega/myweb.git
+git push -u origin master
+
